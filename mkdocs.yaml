@@ -1,0 +1,8 @@
+site_name: "jokl-123123"
+site_description: "Documentation for jokl-123123"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
